@@ -1,0 +1,4 @@
+--SpringBoot create a CRUD API Service example:
+--http://websystique.com/spring-boot/spring-boot-rest-api-example/
+--or
+--https://dzone.com/articles/how-to-create-rest-api-with-spring-boot
